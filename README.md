@@ -3,7 +3,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,html,css,scikitlearn,pandas,numpy,matplotlib,seaborn,streamlit&titles=true)
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux,powershell	)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,anaconda,eclipse,ubuntu,linux,jupyter,powershell,terminal,&titles=true)
 
 <br>
 
