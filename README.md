@@ -1,10 +1,10 @@
 
 ## Languages & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,c,cpp,java,mysql,sklearn,fastapi)](https://skillicons.dev)
 
 ## Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux,powershell	)](https://skillicons.dev)
 
 <br>
 
