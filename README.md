@@ -1,7 +1,7 @@
 
 ## Languages & Technologies:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,html,css,scikitlearn,pandas,numpy,matplotlib,seaborn,streamlit&titles=true)
 ## Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux,powershell	)](https://skillicons.dev)
 
