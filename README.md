@@ -1,7 +1,7 @@
 
 ## Languages & Technologies:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,html,css,scikitlearn,pandas,numpy,matplotlib,seaborn,streamlit&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,html,css,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn,streamlit&titles=true)
 ## Tools:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,anaconda,eclipse,ubuntu,linux,jupyter,powershell,terminal,&titles=true)
 
