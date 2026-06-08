@@ -1,9 +1,9 @@
 
 ## Languages & Technologies:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,mysql,mongodb,html,css,tensorflow,scikitlearn,flask,pandas,numpy,matplotlib,seaborn,streamlit&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,react,nodejs,express,typescript,mysql,postgresql,mongodb,html,css,tensorflow,pytorch,scikitlearn,flask,pandas,numpy,matplotlib,seaborn,streamlit,fastapi,flask,django,spring&titles=true)
 ## Tools:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,anaconda,eclipse,ubuntu,linux,jupyter,powershell,terminal,&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,redis,graphql,postman,docker,vscode,claude,cursor,chatgpt,anaconda,eclipse,ubuntu,linux,jupyter,powershell,terminal,vercel,render,tableau&titles=true)
 
 <br>
 
